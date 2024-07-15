@@ -1,0 +1,1 @@
+/*array-data structure that stores a collection of homogeneous items.they have contiguous memeory.array initialisation - int array[]={1,2,3,4,5}memory allocation in arrays-elements of array are present as consecutive blocks of memory.traversing through the array-for loop,for each loop,while loopFOR EACH LOOP-for(int ele:array){    cout<<ele<<endl;}*/

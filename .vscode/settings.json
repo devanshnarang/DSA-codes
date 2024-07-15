@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "__locale": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "iostream": "cpp",
+        "stack": "cpp",
+        "unordered_map": "cpp",
+        "queue": "cpp",
+        "deque": "cpp",
+        "list": "cpp"
+    }
+}
